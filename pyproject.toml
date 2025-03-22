@@ -1,0 +1,14 @@
+[project]
+name = "zindi-crop-canopy-classification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=24.10.0",
+    "jupyterlab>=4.3.4",
+    "lightgbm>=4.5.0",
+    "pandas>=2.2.3",
+    "rasterio>=1.4.3",
+    "scikit-learn>=1.6.1",
+]
