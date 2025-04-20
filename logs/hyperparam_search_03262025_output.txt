@@ -1,0 +1,180 @@
+Wed Mar 26 09:37:57 MST 2025
+Threads= 1
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.608832 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.534678
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.606143 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.515222
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.079379 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.776235
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.589486 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.501264
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.612066 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.804986
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.612414 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.492309
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.090975 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.560164
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.589141 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[999]	valid_0's multi_logloss: 0.643415
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.606443 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.488023
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.103080 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.789144
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.618074 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.582168
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.599844 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.488321
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.600821 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.488101
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.600147 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.510413
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.582597 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.576049
+Number of finished trials: 15
+Best trial:
+  Value: 0.8106027823085531
+  Params: 
+    lambda_l1: 1.7042023944885407e-07
+    lambda_l2: 4.5147519498536276e-06
+    num_leaves: 246
+    feature_fraction: 0.8866153324048107
+    bagging_fraction: 0.5413244197836518
+    bagging_freq: 4
+    min_child_samples: 34
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.606668 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4335
+[LightGBM] [Info] Number of data points in the train set: 4426103, number of used features: 17
+[LightGBM] [Info] Start training from score -0.769113
+[LightGBM] [Info] Start training from score -1.605622
+[LightGBM] [Info] Start training from score -1.091206
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's multi_logloss: 0.488023
+-----Best Param-----
+acc_train= 0.8416747192733653
+acc_dev= 0.8106027823085531
+Wed Mar 26 21:35:07 MST 2025

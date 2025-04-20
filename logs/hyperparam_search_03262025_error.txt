@@ -1,0 +1,58 @@
+[I 2025-03-26 09:38:03,864] A new study created in memory with name: study_03262025
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 10:25:48,840] Trial 0 finished with value: 0.7876934185830352 and parameters: {'lambda_l1': 0.003112890487741474, 'lambda_l2': 1.343357804923973, 'num_leaves': 162, 'feature_fraction': 0.7713381174282502, 'bagging_fraction': 0.9071903760169019, 'bagging_freq': 2, 'min_child_samples': 52}. Best is trial 0 with value: 0.7876934185830352.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 11:14:04,835] Trial 1 finished with value: 0.7969818635270741 and parameters: {'lambda_l1': 1.1819263613060445e-06, 'lambda_l2': 0.0001034862785035592, 'num_leaves': 181, 'feature_fraction': 0.8815193260210683, 'bagging_fraction': 0.8162963369926204, 'bagging_freq': 7, 'min_child_samples': 64}. Best is trial 1 with value: 0.7969818635270741.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 11:38:48,216] Trial 2 finished with value: 0.6550395735125045 and parameters: {'lambda_l1': 3.230721330791844, 'lambda_l2': 4.220041803541564, 'num_leaves': 15, 'feature_fraction': 0.4129012573312134, 'bagging_fraction': 0.5529176110049043, 'bagging_freq': 3, 'min_child_samples': 83}. Best is trial 1 with value: 0.7969818635270741.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 12:33:07,195] Trial 3 finished with value: 0.8029659009727582 and parameters: {'lambda_l1': 2.4184678857666247e-07, 'lambda_l2': 0.00011873660642514144, 'num_leaves': 241, 'feature_fraction': 0.6818178997289022, 'bagging_fraction': 0.44143688996554853, 'bagging_freq': 6, 'min_child_samples': 75}. Best is trial 3 with value: 0.8029659009727582.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 12:58:54,378] Trial 4 finished with value: 0.6350338890610157 and parameters: {'lambda_l1': 0.0022299788193721956, 'lambda_l2': 1.4402191468871916e-06, 'num_leaves': 9, 'feature_fraction': 0.9200646673811407, 'bagging_fraction': 0.9944989584354458, 'bagging_freq': 4, 'min_child_samples': 44}. Best is trial 3 with value: 0.8029659009727582.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 13:51:55,164] Trial 5 finished with value: 0.8079820453270992 and parameters: {'lambda_l1': 4.815195955829204e-05, 'lambda_l2': 5.577970106001931e-06, 'num_leaves': 227, 'feature_fraction': 0.9277160437363813, 'bagging_fraction': 0.594143650762635, 'bagging_freq': 6, 'min_child_samples': 73}. Best is trial 5 with value: 0.8079820453270992.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 14:37:13,466] Trial 6 finished with value: 0.774049454727953 and parameters: {'lambda_l1': 1.3104387335198895e-06, 'lambda_l2': 9.645072875630494e-05, 'num_leaves': 162, 'feature_fraction': 0.4887414456427577, 'bagging_fraction': 0.6097577553134239, 'bagging_freq': 3, 'min_child_samples': 73}. Best is trial 5 with value: 0.8079820453270992.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 15:13:24,648] Trial 7 finished with value: 0.7307976924199632 and parameters: {'lambda_l1': 0.0028079615748070994, 'lambda_l2': 1.4679614227310126e-07, 'num_leaves': 53, 'feature_fraction': 0.7278231396479053, 'bagging_fraction': 0.95702923207369, 'bagging_freq': 5, 'min_child_samples': 22}. Best is trial 5 with value: 0.8079820453270992.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 16:04:45,723] Trial 8 finished with value: 0.8106027823085531 and parameters: {'lambda_l1': 1.7042023944885407e-07, 'lambda_l2': 4.5147519498536276e-06, 'num_leaves': 246, 'feature_fraction': 0.8866153324048107, 'bagging_fraction': 0.5413244197836518, 'bagging_freq': 4, 'min_child_samples': 34}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 16:31:06,672] Trial 9 finished with value: 0.646156977920259 and parameters: {'lambda_l1': 2.4637682540306054e-05, 'lambda_l2': 2.172074382181933e-05, 'num_leaves': 12, 'feature_fraction': 0.5119877245434646, 'bagging_fraction': 0.8427427790751835, 'bagging_freq': 2, 'min_child_samples': 65}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 17:07:25,353] Trial 10 finished with value: 0.7636394828685483 and parameters: {'lambda_l1': 1.2660308853164277e-08, 'lambda_l2': 0.031219965329737434, 'num_leaves': 87, 'feature_fraction': 0.9847933414665186, 'bagging_fraction': 0.42623715085370784, 'bagging_freq': 1, 'min_child_samples': 20}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 18:03:38,019] Trial 11 finished with value: 0.8098627793895103 and parameters: {'lambda_l1': 5.62878151484029e-05, 'lambda_l2': 3.4087430213055664e-08, 'num_leaves': 248, 'feature_fraction': 0.8463959364603811, 'bagging_fraction': 0.6654452563008607, 'bagging_freq': 5, 'min_child_samples': 96}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 18:59:33,486] Trial 12 finished with value: 0.8099242329191195 and parameters: {'lambda_l1': 1.936739684727173e-08, 'lambda_l2': 2.1211945635137647e-08, 'num_leaves': 250, 'feature_fraction': 0.8006417969866592, 'bagging_fraction': 0.7052350012791382, 'bagging_freq': 5, 'min_child_samples': 97}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 19:47:55,591] Trial 13 finished with value: 0.8000596611349955 and parameters: {'lambda_l1': 1.098712036723407e-08, 'lambda_l2': 2.2338320367672872e-07, 'num_leaves': 201, 'feature_fraction': 0.7948087949715504, 'bagging_fraction': 0.7295800150817559, 'bagging_freq': 4, 'min_child_samples': 36}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+[I 2025-03-26 20:24:54,400] Trial 14 finished with value: 0.7665367607332431 and parameters: {'lambda_l1': 9.392871122386136e-08, 'lambda_l2': 0.012792476394686506, 'num_leaves': 116, 'feature_fraction': 0.6423830970626273, 'bagging_fraction': 0.5272391563338871, 'bagging_freq': 5, 'min_child_samples': 8}. Best is trial 8 with value: 0.8106027823085531.
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/.venv/lib/python3.12/site-packages/lightgbm/engine.py:204: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/scr/hyperparameter_search.py:94: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Pred'] = np.argmax(pred, axis=1)
+/xdisk/bethard/manojgopale/extra/zindi-canopy-crop-classification/scr/hyperparameter_search.py:95: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  df = df.groupby('ID').apply(lambda row: getMaxVote(row['Pred'])).to_frame().reset_index()
+42758.97user 27.19system 11:57:09elapsed 99%CPU (0avgtext+0avgdata 5116428maxresident)k
+3762360inputs+752outputs (1391major+1824481minor)pagefaults 0swaps
