@@ -1,4 +1,7 @@
-This repository contains files to train, search hyper-parameters for ML models and submission files to the zindi-canpoy-classification challenge. 
+This repository contains files to train, search hyper-parameters for ML models and submission files to the [zindi-canpoy-classification challenge](https://zindi.africa/competitions/amini-canopy-or-crop-challenge).
+
+
+Final Leaderboard Rank - 49.
 
 Files
 1. [/scr/hyperparameter_search.py](https://github.com/ManojGopale/zindi-canopy-crop-classification/blob/v1/scr/hyperparameter_search.py)
